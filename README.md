@@ -1,3 +1,5 @@
 # This is the read me of cool stuff
 
-[https://spiritssoiree.github.io/live/](https://spiritssoiree.github.io/live/)
+Website: https://spiritssoiree.github.io/live/
+
+Ref for markdown documentaiton: https://www.markdownguide.org/cheat-sheet/
